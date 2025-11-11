@@ -140,6 +140,88 @@ Choose the components you need:
 ✅ PHP
 ✅ phpMyAdmin
 
+## **Step 4.0**
+
+## **Step 4.1: Select Installation Folder**
+
+Default folder is:
+
+C:\xampp
+
+
+You can change it, but it’s best to keep the default.
+
+Click Next.
+
+## **Step 4.2: Language Selection**
+
+Choose English (or your preferred language).
+
+Click Next.
+
+## **Step 4.3: Begin Installation**
+
+Click Next again to start installing.
+
+Wait for the progress bar to finish (it may take a few minutes).
+
+## **Step 4.4: Launch XAMPP Control Panel**
+
+When installation finishes:
+
+Make sure the box “Do you want to start the Control Panel now?” is checked.
+
+Click Finish.
+
+The XAMPP Control Panel will open automatically.
+
+## **Step 4.5: Start Apache and MySQL**
+
+In the Control Panel, click Start next to:
+
+Apache → turns green when running
+
+MySQL → turns green when running
+
+If both are green ✅, your local server is ready!
+
+## **Step 4.6: Test XAMPP Installation**
+
+Open your web browser.
+
+Type this in the address bar:
+
+http://localhost/
+
+
+You should see the XAMPP welcome page.
+
+✅ That means Apache is working!
+To test MySQL:
+4. Go to:
+
+http://localhost/phpmyadmin/
+
+
+You’ll see the phpMyAdmin dashboard, used for managing MySQL databases.
+
+## **Step 4.7: Place Your Project Files**
+
+Go to your XAMPP installation folder:
+
+C:\xampp\htdocs\
+
+
+Create a new folder, e.g.:
+
+C:\xampp\htdocs\dht11\
+
+
+Place your PHP files (like receive.php, index.php) in that folder.
+
+You can now access your project from a browser like this:
+
+http://localhost/dht11/receive.php
 
 ---
 
