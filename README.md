@@ -23,7 +23,7 @@ To design and simulate an Internet of Things (IoT) system capable of reading rea
 
 ## **Installation**
 
-**Step 1.0**
+# **Step 1.0**
 
 Go to the official Arduino website:
 👉 https://www.arduino.cc/en/software
