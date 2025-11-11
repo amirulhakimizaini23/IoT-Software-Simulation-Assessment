@@ -562,6 +562,7 @@ void loop() {
 # **Simulator**
 
 **1) This video show how the system work using xampp, arduino ide, & nodemcu esp8266 wifi module with working database**
+
 https://github.com/user-attachments/assets/7e5f326e-8461-4d80-904e-6aaacf3a8a3f
 
 # **Dashboard**
