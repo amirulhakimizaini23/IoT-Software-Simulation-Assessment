@@ -275,7 +275,7 @@ if (!$conn) {
 
 ```
 **d)** view.php Code: **c:/xampp/htdoc/dht11post/view.php**
-```php
+```html
 # view database from website
 
 <!DOCTYPE html>
