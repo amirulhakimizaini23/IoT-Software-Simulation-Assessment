@@ -255,6 +255,8 @@ if (!$conn) {
 ?>
 
 ```
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/connection%20php.PNG?raw=true)
+
 **b)** install.php Code: **c:/xampp/htdoc/dht11post/install.php**
 ```php
 # install dht11 database to localhost
