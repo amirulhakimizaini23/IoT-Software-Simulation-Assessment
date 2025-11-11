@@ -321,6 +321,8 @@ if (!$conn) {
 ?>
 
 ```
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/install%20php.PNG?raw=true)
+
 **c)** postdemo.php Code: **c:/xampp/htdoc/dht11post/postdemo.php**
 ```php
 # postdemo database to localhost
@@ -367,6 +369,8 @@ if (!$conn) {
 ?>
 
 ```
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/postdemo%20php.PNG?raw=true)
+
 **d)** view.php Code: **c:/xampp/htdoc/dht11post/view.php**
 ```html
 # view database from website
