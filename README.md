@@ -34,6 +34,8 @@ Choose Windows Installer (.exe) if you have admin rights.
 
 Or choose Windows ZIP file if you want a portable version.
 
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/Install%20arduino%20ide.PNG?raw=true)
+
 ---
 
 ## **Step 2.0**
