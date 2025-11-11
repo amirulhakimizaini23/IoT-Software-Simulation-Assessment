@@ -34,9 +34,9 @@ Choose Windows Installer (.exe) if you have admin rights.
 
 Or choose Windows ZIP file if you want a portable version.
 
-**Step 2.0**
+## **Step 2.0**
 
-**Step 2.1: Add ESP8266 Board URL to Arduino IDE**
+## **Step 2.1: Add ESP8266 Board URL to Arduino IDE**
 
 The Arduino IDE doesn’t include the ESP8266 by default — you must add its board package.
 
@@ -54,7 +54,7 @@ Click OK to save.
 
 ✅ Tip: If you already have other URLs there, separate them with a comma (,).
 
-**Step 2.2: Install ESP8266 Board Package**
+## **Step 2.2: Install ESP8266 Board Package**
 
 Now go to:
 Tools → Board → Boards Manager…
@@ -69,7 +69,7 @@ Wait for it to finish downloading (it may take several minutes depending on your
 
 Close the Boards Manager once complete.
 
-**Step 2.3: Select the NodeMCU Board**
+## **Step 2.3: Select the NodeMCU Board**
 
 Go to:
 Tools → Board → ESP8266 Boards → NodeMCU 1.0 (ESP-12E Module)
@@ -86,7 +86,7 @@ Port: Choose the COM port that appears when you plug in your NodeMCU
 
 (If you’re not sure which port, unplug the NodeMCU and see which COM disappears — that’s the one.)
 
-**Step 2.4: Install USB Driver (if needed)**
+## **Step 2.4: Install USB Driver (if needed)**
 
 Sometimes the computer doesn’t detect the NodeMCU until the USB driver is installed.
 
@@ -106,7 +106,7 @@ Reconnect your NodeMCU.
 
 Open Arduino IDE → Tools → Port → select the new COM port.
 
-**Step 2.5: Test the Installation**
+## **Step 2.5: Test the Installation**
 
 Go to File → Examples → ESP8266 → Blink (or create a simple LED blink sketch).
 
@@ -116,7 +116,7 @@ Wait for the IDE to compile and upload the code.
 
 The onboard LED (usually labeled D0 or D4) should start blinking.
 
-**Step 3.0**
+## **Step 3.0**
 
 Download XAMPP
 
