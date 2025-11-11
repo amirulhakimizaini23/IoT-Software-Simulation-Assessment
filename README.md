@@ -34,6 +34,8 @@ Choose Windows Installer (.exe) if you have admin rights.
 
 Or choose Windows ZIP file if you want a portable version.
 
+---
+
 ## **Step 2.0**
 
 ## **Step 2.1: Add ESP8266 Board URL to Arduino IDE**
@@ -115,6 +117,8 @@ Click the Upload (→) button.
 Wait for the IDE to compile and upload the code.
 
 The onboard LED (usually labeled D0 or D4) should start blinking.
+
+---
 
 ## **Step 3.0**
 
