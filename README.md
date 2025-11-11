@@ -58,6 +58,8 @@ Click OK to save.
 
 ✅ Tip: If you already have other URLs there, separate them with a comma (,).
 
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/arduino%20ide%20reference.PNG?raw=true)
+
 ## **Step 2.2: Install ESP8266 Board Package**
 
 Now go to:
