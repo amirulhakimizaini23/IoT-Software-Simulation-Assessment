@@ -457,6 +457,8 @@ if (!$conn) {
 </html>
 
 ```
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/view%20php.PNG?raw=true)
+
 **2) This .ino file create on the arduino ide and compile this coding to nodemcu esp8266 (send and receive data)**
 
 nodemcu_xampp_dht11.ino Source Code:
@@ -546,8 +548,9 @@ void loop() {
 
 
 ```
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/arduino%20ide%201.PNG?raw=true)
 
-
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/arduino%20ide%202.PNG?raw=true)
 ---
 
 # **Simulator**
