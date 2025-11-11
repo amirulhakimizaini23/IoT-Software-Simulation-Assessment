@@ -562,5 +562,13 @@ void loop() {
 # **Simulator**
 
 # **Dashboard**
+**1) This table 1 and table 2 show the data that receive from nodemcu esp8266 wifi module**
+
+**a) Table 1**
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/Table%20data%201.PNG?raw=true)
+
+**b) Table 2**
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/Table%20data%202.PNG?raw=true)
+---
 
 # **Design**
