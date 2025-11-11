@@ -233,7 +233,11 @@ http://localhost/dht11/receive.php
 
 # **Backend**
 
-**1) All this file .php code create and coding using VScode in the folder c:/xampp/htdoc/dht11post**
+**1) Start the backend service using xampp control panel**
+
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/start%20backend%20service.PNG?raw=true)
+
+**2) All this file .php code create and coding using VScode in the folder c:/xampp/htdoc/dht11post**
 
 **a)** connection.php Code: **c:/xampp/htdoc/dht11post/connection.php**
 ```php
