@@ -566,8 +566,7 @@ void loop() {
 
 **a) Table 1**
 ![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/Table%20data%201.PNG?raw=true)
-
-## **b) Table 2**
+**b) Table 2**
 ![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/Table%20data%202.PNG?raw=true)
 ---
 
