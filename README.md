@@ -142,6 +142,8 @@ Choose the components you need:
 ✅ PHP
 ✅ phpMyAdmin
 
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/Install%20xampp.PNG?raw=true)
+
 ## **Step 4.0**
 
 ## **Step 4.1: Select Installation Folder**
