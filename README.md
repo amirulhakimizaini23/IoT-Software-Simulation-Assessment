@@ -5,13 +5,13 @@ This is a repository containing a IoT Software Simulation Assessment
 
 ---
 
-## **Description**
+# **Description**
 
 To design and simulate an Internet of Things (IoT) system capable of reading real-time temperature and humidity data using a DHT11 sensor and transmitting the data wirelessly through the NodeMCU ESP8266 microcontroller to a local server.
 
 ---
 
-## **Table Of Content**
+# **Table Of Content**
 
 - [Installation](#installation)
 - [Backend](#backend)
@@ -21,7 +21,7 @@ To design and simulate an Internet of Things (IoT) system capable of reading rea
 
 ---
 
-## **Installation**
+# **Installation**
 
 ## **Step 1.0**
 
@@ -139,7 +139,7 @@ Choose the components you need:
 
 ---
 
-## **Backend**
+# **Backend**
 
 **1) All this file .php code create and coding using VScode in the folder c:/xampp/htdoc/dht11post**
 
@@ -454,8 +454,8 @@ void loop() {
 
 ---
 
-## **Simulator**
+# **Simulator**
 
-## **Dashboard**
+# **Dashboard**
 
-## **Design**
+# **Design**
