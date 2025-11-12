@@ -575,3 +575,5 @@ https://github.com/user-attachments/assets/7e5f326e-8461-4d80-904e-6aaacf3a8a3f
 ---
 
 # **Design**
+**This show the design of IoT software**
+![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/routing.jpg?raw=true)
