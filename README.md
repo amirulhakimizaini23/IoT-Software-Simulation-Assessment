@@ -559,7 +559,7 @@ void loop() {
 ![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/arduino%20ide%202.PNG?raw=true)
 ---
 
-# **Simulator**
+# **Simulation video**
 
 **1) This video show how the system work using xampp, arduino ide, & nodemcu esp8266 wifi module with working database**
 
