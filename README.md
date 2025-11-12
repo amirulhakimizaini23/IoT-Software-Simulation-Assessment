@@ -15,7 +15,7 @@ To design and simulate an Internet of Things (IoT) system capable of reading rea
 
 - [Installation](#installation)
 - [Backend](#backend)
-- [Simulator](#simulator)
+- [Simulation](#simulation)
 - [Dashboard](#dashboard)
 - [Design](#design)
 
@@ -559,7 +559,7 @@ void loop() {
 ![image URL](https://github.com/amirulhakimizaini23/IoT-Software-Simulation-Assessment/blob/main/images/arduino%20ide%202.PNG?raw=true)
 ---
 
-# **Simulation video**
+# **Simulation**
 
 **1) This video show how the system work using xampp, arduino ide, & nodemcu esp8266 wifi module with working database**
 
