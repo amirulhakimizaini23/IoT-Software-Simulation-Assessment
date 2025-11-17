@@ -1,5 +1,5 @@
 
-# **IoT Software Simulation Assessment**
+# **Nodemcu Esp8266 + DHT11 Sensor + Xampp**
 
 This is a repository containing a IoT Software Simulation Assessment
 
